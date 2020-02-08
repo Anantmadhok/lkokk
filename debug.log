@@ -1,0 +1,4 @@
+[0204/152122.247:ERROR:process_reader_win.cc(242)] ReadMemory at 0xd080381 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0204/152122.248:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0205/180707.784:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name metrics_client_id, discarding value 978c1e57f79b407e963860832a5f4268
+[0205/180707.836:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: The URL does not use a recognized protocol (0x2ee6)
